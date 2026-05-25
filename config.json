@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseeecrypt",
+        "uuid": 743811,
+        "checksum": "b40yb5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
